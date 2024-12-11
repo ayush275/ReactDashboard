@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 97 167);
+}
